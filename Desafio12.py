@@ -1,6 +1,9 @@
 # Imprime o título do desafio
 print('====== DESAFIO 12  ======')
 
+# Faça um algoritimo que leia o preço de um produto
+# e mostre seu novo preço com 5% de desconto
+
 # Solicita ao usuário o preço do produto
 precoProduto = float(input('Informe o preço do Produto: R$ '))
 
